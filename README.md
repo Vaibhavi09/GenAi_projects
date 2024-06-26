@@ -28,6 +28,11 @@ The training process involves alternating between training the discriminator and
 
 The generated images improve in quality as the training progresses. Sample images are saved at regular intervals to visualize the generator's progress.
 
+
+https://github.com/Vaibhavi09/GenAi_projects/assets/88539906/bdaffb10-ff89-40f7-b1c4-a6aadf2a2d48
+
+
+
 ### Dependencies
 
 - Python
